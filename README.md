@@ -19,4 +19,19 @@ PantryChef is a full-stack recipe suggestion web application where users can sel
 - **Database:** MySQL
 
 ## 📁 Project Structure
-PantryChef/ ├── public/ │ ├── index.html │ ├── styles.css │ └── script.js ├── server/ │ └── server.js ├── database/ │ └── pantrychef.sql ├── README.md ├── package.json └── .gitignore
+PantryChef/
+├── public/                 # Frontend files
+│   ├── index.html          # Main HTML file
+│   ├── styles.css          # CSS styles
+│   └── script.js           # Frontend JavaScript
+│
+├── server/                 # Backend code
+│   └── server.js           # Express server and API endpoints
+│
+├── database/               # SQL database files
+│   └── pantrychef.sql      # Database schema and sample data
+│
+├── package.json            # Node.js dependencies and scripts
+├── README.md               # Project documentation
+└── .gitignore              # Files to ignore in version control
+
