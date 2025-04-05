@@ -1,6 +1,7 @@
 # PantryChef 🍳🥦
 
 PantryChef is a full-stack recipe suggestion web application where users can select ingredients they have and get matching recipes instantly. It's like having a personal chef in your browser!
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/87bdc9f7-f0d8-4c47-af68-b8c6fe118e64" />
 
 ## 🚀 Features
 
